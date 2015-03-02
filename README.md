@@ -2,7 +2,7 @@
 An Rpg game's graphics.
 
 authers:
-brynwyl - auther
+brynwyl - author
 
 kneelawk - coder: his code page https://github.com/Kneelawk/Lethos
 
