@@ -9,4 +9,5 @@ kneelawk - coder: his code page https://github.com/Kneelawk/Lethos
 meelock - random texture maker
 
 
-oh wait never mind
+but there is this guy http://witcher.wikia.com/wiki/Letho
+...look in the commits...
